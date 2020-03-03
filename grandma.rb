@@ -25,3 +25,5 @@ def speak_to_grandma(phrase = "hello")
 # else 
  # puts "NO, NOT SINCE 1938!"
 end
+
+speak_to_grandma
