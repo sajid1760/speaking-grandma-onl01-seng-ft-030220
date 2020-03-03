@@ -16,8 +16,8 @@ require 'pry'
 
 def speak_to_grandma(phrase = "hello")
   puts phrase
- # if phrase == phrase.upcase
-  # puts "NO, NOT SINCE 1938!"
+ if phrase == phrase.upcase
+   puts "NO, NOT SINCE 1938!"
  # if !(phrase == phrase.upcase) 
   #  puts "HUH?! SPEAK UP, SONNY!"
 # if 3 > 2
